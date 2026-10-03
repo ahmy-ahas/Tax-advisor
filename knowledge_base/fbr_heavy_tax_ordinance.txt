@@ -1,0 +1,57 @@
+INCOME TAX ORDINANCE Pakistan, 2001 (AMENDED UP TO 2026)
+
+CHAPTER I - PRELIMINARY AND INTERPRETATION
+Section 2: Definitions. In this Ordinance, unless there is anything repugnant in the subject or context:
+(1) "Accumulated profits" includes any profits of the company of which the distribution has been deferred, or any reserve created out of profits.
+(2) "Active Taxpayer List" means the list maintained by the Federal Board of Revenue under section 181A.
+(3) "Amortisation" means the systematic allocation of the cost of an intangible asset over its estimated useful life.
+(4) "Appellate Tribunal" means the Appellate Tribunal Inland Revenue established under section 130.
+(5) "Association of Persons" includes a firm, a Hindu undivided family, any artificial juridical person and any body of persons formed under a foreign law, but does not include a company.
+(6) "Banking company" means a banking company as defined in the Banking Companies Ordinance, 1962.
+(7) "Company" means a company as defined in the Companies Act, a body corporate formed by or under any law in force in Pakistan, a trust, or a foreign association.
+(8) "Filer" means a taxpayer whose name appears on the Active Taxpayers List issued by the Board from time to time.
+(9) "Non-Filer" means a person who is not a filer and includes a person who has failed to file their return within the prescribed deadline.
+(10) "Taxpayer" means any person who derives an income or is liable to pay tax under this Ordinance.
+
+CHAPTER II - CHARGE OF TAX
+Section 4: Charge of income tax. Income tax shall be imposed for each tax year at the rates specified in the First Schedule to this Ordinance on every person who has taxable income for the year. The taxable income of a person for a tax year shall be the total income of the person for the year reduced by the total of any deductible allowances.
+
+CHAPTER III - TAX ON TAXABLE INCOME
+PART I: HEADS OF INCOME
+Section 7: Heads of Income. All income shall, for the purposes of the charge of tax and the computation of taxable income, be classified under the following heads: Salary, Income from Business, Income from Property, Capital Gains, and Income from Other Sources.
+
+PART II: SALARY
+Section 12: Salary. Any income received by an employee in a tax year from any employment shall be chargeable to tax under the head "Salary". 
+- Salary includes any salary, wages, annuity, pension, gratuity, bonus, commission, allowance, perquisite, or profit in lieu of salary.
+- Perquisites include the value of any accommodation provided by the employer, any motor vehicle provided for private use, any domestic services paid by the employer, and any interest-free loan extended to the employee.
+
+PART III: INCOME FROM PROPERTY
+Section 15: Income from Property. The rent received or receivable by a person for a tax year for the lease of land or a building shall be chargeable to tax under the head "Income from Property".
+- "Rent" means any amount received or receivable by the owner of land or a building as consideration for the use or occupation of, or the right to use or occupy, the land or building.
+- Where any non-adjustable advance is received by the owner from the tenant, one-tenth of the amount shall be treated as rent chargeable to tax each year for ten consecutive years.
+
+PART IV: INCOME FROM BUSINESS
+Section 18: Income from Business. The following incomes derived by a person during a tax year shall be chargeable to tax under the head "Income from Business":
+- The profits and gains of any business carried on by a person.
+- Any income derived by any trade, professional or similar association from the sale of goods or provision of services.
+- Any fair market value of any benefit or perquisite derived by a person in the course of business.
+Section 20: Deductions in computing income from business. In computing the profits and gains of a business, there shall be allowed as a deduction any expenditure incurred by the person in the tax year wholly and exclusively for the purposes of business.
+- Deductions are allowed for depreciation of tangible assets (buildings, machinery, plant, vehicles) under Section 22.
+- Deductions are allowed for initial allowance on qualified machinery at the rate of 25% under Section 23.
+- Deductions are allowed for bad debts written off during the year under Section 29.
+
+PART V: CAPITAL GAINS
+Section 37: Capital Gains. Any gain arising on the disposal of a capital asset by a person in a tax year, other than a gain that is exempt from tax, shall be chargeable to tax under the head "Capital Gains".
+- "Capital asset" means property of any kind held by a person, whether or not connected with a business, including shares of a public/private company, modaraba certificates, plots, houses, and immovable property, but does not include any stock-in-trade or consumable stores.
+- The gain on disposal of a capital asset shall be computed as the consideration received minus the cost of the asset.
+
+PART VI: INCOME FROM OTHER SOURCES
+Section 39: Income from Other Sources. Income of every kind received by a person in a tax year, if it is not chargeable to tax under any other head, shall be chargeable under "Income from Other Sources".
+- This includes dividend income, interest or profit on debt, ground rent, royalty, winnings from a raffle, lottery, prize bond, or crossword puzzle, and any amount received as a gift.
+
+CHAPTER X - PENALTIES AND OFFENCES
+Section 182: Offences and Penalties. 
+- Any person who fails to furnish a return of income within the due date shall pay a penalty equal to 0.1% of the tax payable for each day of default, subject to a minimum of PKR 10,000.
+- Any person who fails to maintain records as required by this Ordinance shall pay a penalty of PKR 10,000 or 5% of the tax payable, whichever is higher.
+- Any person who makes a false statement or omits essential facts in a tax return shall pay a penalty of PKR 25,000 or 100% of the tax underpaid, whichever is higher.
+- Any person who fails to deposit withholding tax collected at source into the government treasury shall pay a penalty of PKR 25,000 or 10% of the amount not deposited, whichever is higher.

@@ -1,0 +1,19 @@
+FBR Pakistan Income Tax Slabs for Salaried Individuals (Latest Rules):
+
+1. Where taxable income does not exceed Rs. 600,000:
+   Rate of Tax: 0%
+
+2. Where taxable income exceeds Rs. 600,000 but does not exceed Rs. 1,200,000:
+   Rate of Tax: 1% of the amount exceeding Rs. 600,000.
+
+3. Where taxable income exceeds Rs. 1,200,000 but does not exceed Rs. 2,200,000:
+   Rate of Tax: Rs. 6,000 + 11% of the amount exceeding Rs. 1,200,000.
+
+4. Where taxable income exceeds Rs. 2,200,000 but does not exceed Rs. 3,200,000:
+   Rate of Tax: Rs. 116,000 + 23% of the amount exceeding Rs. 2,200,000.
+
+5. Where taxable income exceeds Rs. 3,200,000 but does not exceed Rs. 4,100,000:
+   Rate of Tax: Rs. 346,000 + 30% of the amount exceeding Rs. 3,200,000.
+
+6. Where taxable income exceeds Rs. 4,100,000:
+   Rate of Tax: Rs. 616,000 + 35% of the amount exceeding Rs. 4,100,000.

@@ -1,0 +1,37 @@
+FBR Pakistan Tax Rates Comparison for Filer vs Non-Filer:
+
+1. Bank cash withdrawal (above Rs. 50,000):
+   - Filer Tax Rate: 0.15%
+   - Non-Filer Tax Rate: 0.6%
+
+2. Property purchase:
+   - Filer Tax Rate: 3%
+   - Non-Filer Tax Rate: 12%
+
+3. Property sale:
+   - Filer Tax Rate: 3%
+   - Non-Filer Tax Rate: 10%
+
+4. Vehicle token tax:
+   - Filer Tax Rate: Normal rate
+   - Non-Filer Tax Rate: Double rate
+
+5. Dividend income:
+   - Filer Tax Rate: 15%
+   - Non-Filer Tax Rate: 30%
+
+6. Prize bond winnings:
+   - Filer Tax Rate: 15%
+   - Non-Filer Tax Rate: 30%
+
+7. Profit on bank deposits:
+   - Filer Tax Rate: 15%
+   - Non-Filer Tax Rate: 30%
+
+8. Auction purchase:
+   - Filer Tax Rate: 10%
+   - Non-Filer Tax Rate: 20%
+
+9. Rental income (commercial):
+   - Filer Tax Rate: Standard slab
+   - Non-Filer Tax Rate: Higher rate
